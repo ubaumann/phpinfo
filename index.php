@@ -1,4 +1,4 @@
 <?php
-echo "Hello Meetup !";
+echo "Hello E-Commerce Meetup !";
 phpinfo();
 ?>
