@@ -1,4 +1,4 @@
 <?php
-echo "Hello Voxxeddays Zürich !";
+echo "Hello ".$ENV['HOSTNAME']." Voxxeddays Zürich !";
 phpinfo();
 ?>
